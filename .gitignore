@@ -32,7 +32,10 @@ migrate_working_dir/
 .pub/
 /build/
 
-/lib/firebase_options.dart
+lib/firebase_options.dart
+lib/env/.env
+*.g.dart
+*.freezed.dart
 
 # Symbolication related
 app.*.symbols
